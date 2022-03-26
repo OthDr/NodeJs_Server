@@ -27,7 +27,7 @@ const server = http.createServer((req,res)=>
                 res.statusCode = 404;
                 break;             
         }
-        // ----------  Reading & Sending : index.html ------------
+        // ----------  Reading & Sending : html page ------------
 
         fs.readFile(path,(err,data)=>{
             if(err){
