@@ -1,0 +1,22 @@
+{
+  "name": "alos_act2",
+  "version": "1.0.0",
+  "description": "ALOS 2nd Activity , NodeJS API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "REST",
+    "Api",
+    "NodeJS",
+    "JS"
+  ],
+  "author": "Othmane Drr",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "fs": "^0.0.1-security",
+    "require": "^2.4.20"
+  }
+}
